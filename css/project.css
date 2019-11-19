@@ -1,0 +1,21 @@
+body {
+  margin:auto;
+  padding:1vw;
+}
+
+.container {
+  padding: 2vw;
+  font-size:36px !important;
+}
+
+.container p {
+  text-align:center;
+}
+
+table {
+  margin-top:10px;
+}
+
+thead {
+  background:#eee;
+}
